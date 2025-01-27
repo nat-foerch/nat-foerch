@@ -11,9 +11,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png" />
-<img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Excel/Excel.png" />
+<img alt="R" src="https://img.shields.io/badge/-R-46a2f1?style=flat-square&logo=r&logoColor=white" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-2088FF?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-45b8d8?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
 <br />
 <br />
@@ -21,14 +23,9 @@
 
 ### 📕 Latest Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Prediction of Stochastic Clogging Processes](https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb)
-- [English Language Translation with Transformers (Neural Networks + Attention)](https://github.com/Franjcf/Data-Science-Projects/blob/main/language_translation_transformers/Transformer.ipynb)
-- [Simulation of Multiphase Flow in Deformable Porous Media](https://github.com/Franjcf/hybridBiotInterFoam)
-- [Fine-Tuning BERT for Sentiment Analysis](https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_BERT/sentiment_analysis_BERT.ipynb)
-- [Simulation of Multiphase Flow at Multiple Scales](https://github.com/Franjcf/hybridPorousInterFoam)
-- [Ethereum Price Prediction Using LSTMs](https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb)
-<!-- BLOG-POST-LIST:END -->
+- [Repositories](https://github.com/nat-foerch?tab=repositories)
+- [Data Science Portfolio](https://github.com/nat-foerch/Foerch-Data-Science-Portfolio)
+<!--
 
 ### Connect with me:
 
