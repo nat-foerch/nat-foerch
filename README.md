@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**nat-foerch/nat-foerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-### Hi there, I'm Natalie! - aka [nat-foerch][website] 👋
+### Hi, I'm Natalie! - aka [nat-foerch][website] 👋
 
 [![Website](https://img.shields.io/website?label=nat-foerch.github.io&style=for-the-badge&url=https://nat-foerch.github.io//)](https://nat-foerch.github.io/)
 
