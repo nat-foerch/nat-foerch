@@ -3,16 +3,15 @@
 [![Website](https://img.shields.io/website?label=nat-foerch.github.io&style=for-the-badge&url=https://nat-foerch.github.io//)](https://nat-foerch.github.io/)
 
 ## I'm a wife, a senior at the University of Notre Dame, and a follower of Christ!
- 
-- 🌱  I am currently learning about data science careers and Python.
-- 🥅  Goals for 2025: I want to have mastered the basics of Python, R, SQL, and Tableau. 
-- 👯  Please reach out if you want to collaborate!
+- 🔭 I am studying Political Science with minors in Data Science and Buisness Economics
+- 🌱 I am currently working on reaching Python Proficientcy.
+- 🥅 Goals for 2025: I want to have mastered the basics of Python, R, SQL, and Tableau. 
 - ⚡ Fun fact: I love playing tennis and reading systematic theology.
 
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/RStudio/RStudio.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png" />
 <img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Excel/Excel.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
