@@ -6,7 +6,7 @@
 - 🔭 I am studying Political Science with minors in Data Science and Buisness Economics
 - 🌱 I am currently working on reaching Python Proficientcy.
 - 🥅 Goals for 2025: I want to have mastered the basics of Python, R, SQL, and Tableau using Udemy.
-- ⚡ Fun fact: I love playing tennis and reading systematic theology.
+- ⚡ Fun fact: I love learning about aquascaping. 
 
 ### Languages and Tools:
 <p>
@@ -22,6 +22,8 @@
 
 - [Repositories](https://github.com/nat-foerch?tab=repositories)
 - [Data Science Portfolio](https://github.com/nat-foerch/Foerch-Data-Science-Portfolio)
+- [April 14th Update: Machine Learning Streamlit App](https://github.com/nat-foerch/MLStreamlitApp)
+  Check out my latest project! I have created a machine learning streamlit app that explores datasets using ***Decision Trees*** and ***K Nearest Neighbors***! This project furthered my understanding of Python and taught me various machine learning and performance models for analyzing data. 
 
 
 ### Connect with me:
