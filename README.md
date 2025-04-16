@@ -22,7 +22,8 @@
 
 - [Repositories](https://github.com/nat-foerch?tab=repositories)
 - [Data Science Portfolio](https://github.com/nat-foerch/Foerch-Data-Science-Portfolio)
-- [April 14th Update: Machine Learning Streamlit App](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp)
+- [April 14th Update: Machine Learning Streamlit App](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp) <-***Click this link for a Data Science portfolio update!***
+
   Check out my latest project! I have created a machine learning streamlit app that explores datasets using ***Decision Trees*** and ***K Nearest Neighbors***! This project furthered my understanding of Python and taught me various machine learning and performance models for analyzing data. 
 
 
