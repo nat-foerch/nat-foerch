@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=nat-foerch.github.io&style=for-the-badge&url=https://nat-foerch.github.io//)](https://nat-foerch.github.io/)
 
 ## I'm a wife, a senior at the University of Notre Dame, and a follower of Christ!
-- 🔭 I am studying Political Science with minors in Data Science and Buisness Economics
-- 🌱 I am currently working on reaching Python Proficientcy.
+- 🔭 I am studying Political Science with minors in Data Science and Business Economics
+- 🌱 I am currently working on reaching Python Proficiency.
 - 🥅 Goals for 2025: I want to have mastered the basics of Python, R, SQL, and Tableau using Udemy.
-- ⚡ Fun fact: I love learning about aquascaping. 
+- ⚡ Fun fact: I love having good theological conversations with a cup of coffee!
 
 ### Languages and Tools:
 <p>
