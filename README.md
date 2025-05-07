@@ -8,7 +8,7 @@
 👨‍💻 **GitHub:** [nat-foerch](https://github.com/nat-foerch)
 
 ## About Me
-I'm a follower of Christ, a wife, and a soon-to-be graduate from Notre Dame. I majored in Political Science and minored in Data Science and Business Economics. I have about three years of experience in R and data analysis. 
+I'm a follower of Christ, a wife, and a soon-to-be graduate from Notre Dame. I majored in Political Science and minored in Data Science and Business Economics. I have about three years of experience with R and data analysis. 
 - 🌱 I am currently working on reaching Python Proficiency.
 - 🥅 Goals for 2025: Master the basics of Python, R, SQL, and Tableau using Udemy.
 - ⚡ Fun fact: I love having good theological conversations over a cup of coffee!
