@@ -1,6 +1,6 @@
 # Hi, I'm Natalie! 👋
 
-## 🚀 Political Science and Data Science Senior at the University of Notre Dame!
+## 🚀 Political Science and Data Science Graduate from the University of Notre Dame!
 
 📍 **Indiana**  
 📧 **Email:** [ngonzal4@alumni.nd.edu](mailto:ngonzal4@alumni.nd.edu)  
