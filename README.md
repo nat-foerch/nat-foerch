@@ -10,7 +10,7 @@
 ## About Me
 I'm a follower of Christ, a wife, and a 2025 Notre Dame Alum. I majored in Political Science and minored in Data Science and Business Economics. I have about three years of experience with R and data analysis. 
 - 🌱 I am currently working on reaching Python Proficiency.
-- 🥅 Goals for 2025: Master the basics of Python, R, SQL, and Tableau using Udemy.
+- 🥅 Goals for 2026: Master the basics of Python, R, SQL, and Tableau using Udemy.
 - ⚡ Fun fact: I love having good theological conversations over a cup of coffee!
 
 ## Current Languages and Tools 🛠️
